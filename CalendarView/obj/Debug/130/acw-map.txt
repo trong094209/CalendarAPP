@@ -1,3 +1,6 @@
+CalendarView.Activity1, CalendarView;crc64c97f559ed5a6e256.Activity1
+CalendarView.Activity1;crc64c97f559ed5a6e256.Activity1
+calendarview.Activity1;crc64c97f559ed5a6e256.Activity1
 CalendarView.MainActivity, CalendarView;crc64c97f559ed5a6e256.MainActivity
 CalendarView.MainActivity;crc64c97f559ed5a6e256.MainActivity
 calendarview.MainActivity;crc64c97f559ed5a6e256.MainActivity
